@@ -1,2 +1,3 @@
-# capstone_retold
-Project Retold
+# Project Retold
+---------------------------
+
