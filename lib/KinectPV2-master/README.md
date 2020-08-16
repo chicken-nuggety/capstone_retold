@@ -1,4 +1,4 @@
-## KinectPV2 by 
+KinectPV2 by 
 [Thomas Lengeling](https://github.com/ThomasLengeling/KinectPV2)
 ==========
 
