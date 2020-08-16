@@ -1,4 +1,5 @@
-KinectPV2 by [Thomas Lengeling] (https://github.com/ThomasLengeling/KinectPV2)
+KinectPV2 by 
+[Thomas Lengeling] (https://github.com/ThomasLengeling/KinectPV2)
 ==========
 
 ### Kinect v2 library for Processing
