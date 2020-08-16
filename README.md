@@ -3,7 +3,7 @@
 
 Welcome friends to our official code repository for Project Retold!
 
-For more information on our project, check out our official [website](https://capstone.sutd.edu.sg/projects/retold)
+For more information on our project, check out our official [website](https://capstone.sutd.edu.sg/projects/retold) and try out our [virtual installation!](https://project-retold.com/)
 
 ## Directory
 
