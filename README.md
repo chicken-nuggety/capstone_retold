@@ -11,7 +11,7 @@ For more information on our project, check out our official [website](https://ca
 The algorithm used in our live demonstration of the physical prototype (1 metre by 1 metre)
 
 ### integration_tidied
-The algorithm which will be used in the full scale installation (7 metre by 4 metre)
+The algorithm for the full scale installation (7 metre by 4 metre)
 
 ### lib
 Kinect v2 library for Processing by Thomas Lengeling
